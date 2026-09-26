@@ -1,0 +1,13 @@
+Test Accuracy : 0.9867
+Precision     : 0.9867
+Recall        : 0.9876
+F1-score      : 0.9871
+
+              precision    recall  f1-score   support
+
+         cat       0.99      0.99      0.99      1131
+         dog       0.99      0.99      0.99      1205
+
+    accuracy                           0.99      2336
+   macro avg       0.99      0.99      0.99      2336
+weighted avg       0.99      0.99      0.99      2336
